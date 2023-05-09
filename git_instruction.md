@@ -103,4 +103,4 @@ git merge <имя ветки>.
 ---
 * На сайте GitHub выполнить **Pull request**.
 ---
-
+To be continued
